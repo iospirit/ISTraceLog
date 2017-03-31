@@ -1,5 +1,5 @@
 # ISTraceLog
-A simple class for building a trace log to follow specific object's path across classes.
+A class for building a trace log to follow an object's journey as it travels through your app.
 
 *by [@felix_schwarz](https://twitter.com/felix_schwarz/)*
 
